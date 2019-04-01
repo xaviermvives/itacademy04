@@ -1,0 +1,55 @@
+BASES DADES RELACIONALS
+
+EXAM
+
+Why can storing the results of calculations in a table become problematic?
+
+When values are updated, the calculated results also need to be updated.
+
+
+
+What statement is correct regarding fields?
+
+If you need to parse a field in tables to get the data you want they are badly designed
+
+
+
+When a specific product is no longer needed in the Products table, it is better to _____.
+
+have a Status column to keep track of discontinued products
+
+
+
+What item that must be collected when you are dealing with a wholesale customer.
+
+business name
+
+
+
+In a table relationship diagram, what symbol does not represent a possible relationship between several records?
+
+Respuesta correcta
+the greek letter Theta
+
+
+
+Which statement is incorrect about Lookup Tables?
+
+they create an infinite list of acceptable values
+
+
+
+Which of the following is incorrect about Primary keys?
+
+they can be NULL
+
+As a database designer, denormalization can be considered when balancing what?
+performance and historical data considerations
+
+Which of the following pieces of information should be stored as a numerical data type?
+
+The database feature that ensures that relationships are created between existing values is called what?
+
+referential Integrity
+
+
